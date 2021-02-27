@@ -1,0 +1,4 @@
+baseURL = "https://fazaxmusic-piano4.vercel.app"
+languageCode = "en-us"
+title = "Music Piano Modern Classic"
+theme = "hugo-theme-minos"
